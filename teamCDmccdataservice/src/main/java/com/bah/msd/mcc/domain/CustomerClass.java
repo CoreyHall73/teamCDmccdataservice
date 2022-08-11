@@ -56,5 +56,6 @@ public class CustomerClass {
 	
 	
 	// Class methods
+	// test
 	
 }
